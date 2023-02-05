@@ -1,3 +1,8 @@
+# __:warning: This Project is Inactive. Contents have been migrated to an updated repository__
+
+__Going forward please refer to [neo4j-product-examples/ds-recommendation-use-cases](https://github.com/neo4j-product-examples/ds-recommendation-use-cases) for examples on using Neo4j Graph Data Science for recommendation systems.
+This specific example has been migrated to [neo4j-product-examples/ds-recommendation-use-cases/product-recommendation-hm](https://github.com/neo4j-product-examples/ds-recommendation-use-cases/tree/main/product-recommendation-hm)__
+
 # Graph Connect 2022 Data Science Ecosystem Integration Demo
 
 This demo leverages the [H&M Personalized Fashion Recommendations Dataset](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data) to show:
