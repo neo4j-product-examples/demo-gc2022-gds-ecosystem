@@ -1,4 +1,4 @@
-# __:warning: This Project is Inactive. Contents have been migrated to an updated repository__
+# __:warning: This project is inactive. Contents have been migrated to an updated repository.__
 
 __Going forward please refer to [neo4j-product-examples/ds-recommendation-use-cases](https://github.com/neo4j-product-examples/ds-recommendation-use-cases) for examples on using Neo4j Graph Data Science for recommendation systems.
 This specific example has been migrated to [neo4j-product-examples/ds-recommendation-use-cases/product-recommendation-hm](https://github.com/neo4j-product-examples/ds-recommendation-use-cases/tree/main/product-recommendation-hm)__
